@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Ranxi Liu / Simutaneous Localisation and Mapping"
+title                    : "Ranxi Liu / Simultaneous Localisation and Mapping"
 title_separator          : "-"
 name                     : &name "Ranxi Liu"
 description              : &description "a research assistant from University of Technology Sydney"
