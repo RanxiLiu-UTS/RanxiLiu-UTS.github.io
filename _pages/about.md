@@ -11,7 +11,7 @@ I am currently a research assistant from [School of Mechanical and Mechatronic E
 
 I am very fortunate to be advised by [Prof. Shoudong Huang](https://profiles.uts.edu.au/shoudong.huang) and [Prof. Alen Alempijevic](https://profiles.uts.edu.au/alen.alempijevic) of the Intelligent Robotics Lab from [School of Mechanical and Mechatronic Engineering](https://www.uts.edu.au/about/faculties/engineering-and-information-technology/mechanical-and-mechatronic-engineering), University of Technology Sydney.
 
-You can find my CV here: [Ranxi Liu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Ranxi Liu's Curriculum Vitae](../assets/RanxiLiu_CV.pdf).
 
 [Email](ranxi.liu-1@uts.edu.au) / [Github](https://ranxiliu-uts.github.io/) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/ranxisama?spm=1010.2135.3001.5343)
 
