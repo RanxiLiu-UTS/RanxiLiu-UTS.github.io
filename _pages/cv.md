@@ -16,9 +16,9 @@ Education
 
 Work experience
 ======
-* March 2024 to July 2025: Research Assistant
+* March 2024 to July 2025: research assistant
   * University of Technology
-  * Duties includes: Mechanical design drawing of robot-controlled drilling system, algorithm development and programming test for rapid calculation of acetabular rotation center
+  * Duties includes: mechanical design drawing of robot-controlled drilling system, algorithm development and programming test for rapid calculation of acetabular rotation center
   * Supervisor: Prof. Shoudong Huang, Deputy Head Of School Mechanical and Mechatronic Engineering (Research)
   
 Skills
