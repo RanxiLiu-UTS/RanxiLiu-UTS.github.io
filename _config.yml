@@ -25,7 +25,7 @@ author:
   avatar           : "wechat_photo.png"
   name             : "Ranxi Liu (刘冉皙)"
   pronouns         : # example: "she/her"  
-  bio              : # "Short biography for the left-hand sidebar"
+  bio              : " " # "Short biography for the left-hand sidebar"
   location         : "Sydney, Australia"
   employer         : "University of Technology Sydney"
   uri              : # URL
