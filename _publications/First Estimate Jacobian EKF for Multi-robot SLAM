@@ -8,6 +8,6 @@ date: 2024-01-01
 venue: 'Australasian Conference on Robotics and Automation'
 # slidesurl: 'https://ranxiliu-uts.github.io/files/slides1.pdf'
 paperurl: 'https://ranxiliu-uts.github.io/files/FEJ_for_MRSLAM.pdf'
-bibtexurl: 'http://ranxiliu-uts.github.io/files/FEJ_for_MRSLAM.bib'
+bibtexurl: 'https://ranxiliu-uts.github.io/files/FEJ_for_MRSLAM.bib'
 citation: 'Ranxi Liu, Yang Song and Shoudong Huang. &quot;First Estimate Jacobian EKF for Multi-robot SLAM.&quot; <i>Australasian Conference on Robotics and Automation</i>. ARAA, 2024.'
 ---
