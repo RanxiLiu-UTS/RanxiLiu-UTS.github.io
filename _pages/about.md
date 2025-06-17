@@ -13,7 +13,7 @@ I am very fortunate to be advised by [Prof. Shoudong Huang](https://profiles.uts
 
 You can find my CV here: [Ranxi Liu's Curriculum Vitae](../assets/RanxiLiu_CV.pdf).
 
-[Email](ranxi.liu-1@uts.edu.au) / [Github](https://ranxiliu-uts.github.io/) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/ranxisama?spm=1010.2135.3001.5343)
+[Email](mailto:ranxi.liu-1@uts.edu.au) / [Github](https://ranxiliu-uts.github.io/) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/ranxisama?spm=1010.2135.3001.5343)
 
 A data-driven personal website
 ======
