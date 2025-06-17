@@ -22,7 +22,7 @@ repository               : "ranxiliu-uts.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "wechat_photo.jpg"
+  avatar           : "wechat_photo.png"
   name             : "Ranxi Liu"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
