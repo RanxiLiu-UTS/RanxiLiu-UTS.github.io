@@ -1,7 +1,7 @@
 ---
 title: "First Estimate Jacobian EKF for Multi-robot SLAM"
 collection: publications
-category: manuscripts
+category: conferences
 # permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about addressing inconsistency issues, i.e. underestimation of uncertainty, is crucial for the performance of Extended Kalman Filter (EKF) based Simultaneous Localization and Mapping (SLAM). By using the first estimate Jacobians, this paper designs a consistent EKF for the point feature-based multi-robot SLAM. First, the standard EKF (Std-EKF) for the considered problems is presented. Then, through the observability analysis, we prove that Std-EKF has an observable subspace of dimension higher than the underlying system, leading to the inconsistency issue. Accordingly, we propose the first estimate Jacobian EKF (FEJ-EKF), which shares the same dimension of observable subspace with the underlying system, alleviating the inconsistency issue. Finally, the effectiveness of the proposed method is validated by simulations and a practical dataset. By making the MATLAB code for this research available online1, we hope to facilitate collaboration and allow others to build upon and improve the methodology.'
 date: 2024-01-01
