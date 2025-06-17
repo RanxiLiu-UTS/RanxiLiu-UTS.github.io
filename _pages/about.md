@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a research assistant from [School of Mechanical and Mechatronic Engineering](https://www.uts.edu.au/about/faculties/engineering-and-information-technology/mechanical-and-mechatronic-engineering), [Univerisity of Technology Sydney](https://www.uts.edu.au/). My research interst lies in simutaneous localisation and mapping (SLAM).
+I am currently a research assistant from [School of Mechanical and Mechatronic Engineering](https://www.uts.edu.au/about/faculties/engineering-and-information-technology/mechanical-and-mechatronic-engineering), [Univerisity of Technology Sydney](https://www.uts.edu.au/). My research interest lies in simutaneous localisation and mapping (SLAM).
 
 I am very fortunate to be advised by [Prof. Shoudong Huang](https://profiles.uts.edu.au/shoudong.huang) and [Prof. Alen Alempijevic](https://profiles.uts.edu.au/alen.alempijevic) of the Intelligent Robotics Lab from [School of Mechanical and Mechatronic Engineering](https://www.uts.edu.au/about/faculties/engineering-and-information-technology/mechanical-and-mechatronic-engineering), University of Technology Sydney.
 
